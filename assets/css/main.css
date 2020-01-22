@@ -194,7 +194,7 @@ h1 a, h2 a, h3 a, h4 a, h5 a, h6 a {
 
 h1 {
   font-family: "Source Sans Pro", Helvetica, sans-serif;
-  font-size: 5rem;
+  font-size: 3.6rem;
   font-weight: 700;
   letter-spacing: -0.05em;
   line-height: 1.1;
@@ -2701,7 +2701,7 @@ ul.feature-icons li:nth-child(1), ul.feature-icons li:nth-child(2) {
   display: block;
   margin-top: 1rem;
   position: absolute;
-  width: 2px;
+  width: 3px;
 }
 #wrapper > section > header h1, #wrapper > section > header h2 {
   position: relative;
@@ -2710,7 +2710,7 @@ ul.feature-icons li:nth-child(1), ul.feature-icons li:nth-child(2) {
   background: #43d9b8;
   content: "";
   display: block;
-  height: 2px;
+  height: 3px;
   position: absolute;
   top: 1rem;
 }
@@ -2825,7 +2825,7 @@ ul.feature-icons li:nth-child(1), ul.feature-icons li:nth-child(2) {
   }
 }
 #wrapper > section:last-of-type > header:after {
-  left: calc(50vw - 5rem - 0.25rem + 1px);
+  left: calc(50vw - 5rem - 0.25rem + 1.5px);
 }
 #wrapper .copyright {
   padding: 0 5rem;
@@ -2881,7 +2881,7 @@ ul.feature-icons li:nth-child(1), ul.feature-icons li:nth-child(2) {
 }
 @media screen and (max-width: 1280px) {
   #wrapper > section:last-of-type > header:after {
-    left: calc(50vw - 4rem - 0.25rem + 1px);
+    left: calc(50vw - 4rem - 0.25rem + 1.5px);
   }
 }
 @media screen and (max-width: 1280px) {
