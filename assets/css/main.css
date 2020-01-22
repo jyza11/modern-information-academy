@@ -1488,8 +1488,8 @@ input[type=reset]:hover,
 input[type=button]:hover,
 button:hover,
 .button:hover {
-  box-shadow: inset 0 0 0 2px #2ee4bb;
-  color: #2ee4bb !important;
+  box-shadow: inset 0 0 0 2px #393939;
+  color: #393939 !important;
 }
 input[type=submit]:active,
 input[type=reset]:active,
@@ -1497,8 +1497,8 @@ input[type=button]:active,
 button:active,
 .button:active {
   background-color: rgba(73, 252, 212, 0.25);
-  box-shadow: inset 0 0 0 2px #2ee4bb;
-  color: #2ee4bb !important;
+  box-shadow: inset 0 0 0 2px #393939;
+  color: #393939 !important;
 }
 input[type=submit].small,
 input[type=reset].small,
@@ -1558,23 +1558,23 @@ input[type=reset].primary,
 input[type=button].primary,
 button.primary,
 .button.primary {
-  background-color: #4997fc;
+  background-color: #000000;
   box-shadow: none;
-  color: #000000 !important;
+  color: #4997fc !important;
 }
 input[type=submit].primary:hover,
 input[type=reset].primary:hover,
 input[type=button].primary:hover,
 button.primary:hover,
 .button.primary:hover {
-  background-color: #93c2ff;
+  background-color: #7e6767;
 }
 input[type=submit].primary:active,
 input[type=reset].primary:active,
 input[type=button].primary:active,
 button.primary:active,
 .button.primary:active {
-  background-color: #4490f2;
+  background-color: black;
 }
 @media screen and (max-width: 736px) {
   input[type=submit],
@@ -1708,7 +1708,7 @@ input[type=search]:focus,
 input[type=url]:focus,
 select:focus,
 textarea:focus {
-  border-color: #2ee4bb;
+  border-color: #393939;
 }
 
 label {

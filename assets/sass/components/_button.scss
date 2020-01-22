@@ -82,16 +82,16 @@
 		}
 
 		&.primary {
-			background-color: _palette(accent);
+			background-color: _palette(fg-bold);
 			box-shadow: none;
-			color: _palette(fg-bold) !important;
+			color: _palette(accent) !important;
 
 			&:hover {
-				background-color: saturate(lighten(_palette(accent), 15), 10);
+				background-color: saturate(lighten(_palette(fg-bold), 45), 10);
 			}
 
 			&:active {
-				background-color: desaturate(darken(_palette(accent), 3), 10);
+				background-color: desaturate(darken(_palette(fg-bold), 3), 10);
 			}
 		}
 
