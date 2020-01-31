@@ -1,0 +1,82 @@
+
+* Course time table
+It's a game just for fun.
+no schedule 
+
+push with your space 
+
+game team system of ctfd 
+1 as unit 
+2 for basic 
+
+** level 0 set 
+   2w - 1m
+*** intro and motivation letter
+
+*** env OS, browser, editer, cmd.
+
+*** package search egnine cs ? directory 
+
+** level 1 basic 
+   2-3 m
+*** git basic
+
+*** git remote 
+
+*** mdn frontend 
+
+*** 2 programing basic 
+    basic use 
+
+*** bootstrap and other ?
+*** fronted dom 
+*** net basic connect  
+
+*** backend basic host online
+    
+** level 2 mid 
+   2-3 m
+
+*** basic better host
+*** database design  
+
+*** hash and encryption 
+
+*** ajax 
+
+*** async 
+
+*** sql injection and more sql 
+
+*** API 
+
+*** oauth
+
+*** cache 
+
+*** OS 
+
+*** regex 
+
+** level 3 team member
+
+*** frame works 
+
+*** docker container 
+   high level advance skill 
+*** build thing now 
+*** now we talk about CI/CD 
+
+*** crwaler
+
+*** vpn 
+
+*** tor
+
+*** bot
+*** SEO 
+*** CTF?
+
+** level 4 
+   only open when there is 4 team full of advance engineer
+   head to wild world 

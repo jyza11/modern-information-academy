@@ -1,10 +1,18 @@
-* Idunit modern information academy 
+* 現代資訊學院 Idunit modern information academy 
 你不是一定要創業，但一定要擁有創業家的計畫思考。
 你也不一定要撰寫程式碼，但一定要了解工程師的思考邏輯。
 
 這裡是不在教室的未來大學，什麼科系背景畢業不重要。
 
-在本學院，打造你有興趣的學習內容，學到教室裡學不到的競爭力。 
+在本學院，打造你有興趣的學習內容，學到教室裡學不到的 資訊競爭力。 
+
+** 學會數種語言包含且不限於 Python, SQL, and JavaScript plus CSS and HTML
+** devops 軟體開發與維運
+** 如何開發網頁程式應用
+
+* Outline
+
+* 報名資訊
 
 * Credits:
 ** Design:
