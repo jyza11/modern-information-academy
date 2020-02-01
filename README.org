@@ -6,9 +6,9 @@
 
 在本學院，打造你有興趣的學習內容，學到教室裡學不到的 資訊競爭力。 
 
-** 學會數種語言包含且不限於 Python, SQL, and JavaScript plus CSS and HTML
+** 學會數種語言包含且不限於 Python, SQL, JavaScript CSS HTML
 ** devops 軟體開發與維運
-** 如何開發網頁程式應用
+** 如何開發網頁程式應用前端與後端
 
 * Outline
 
