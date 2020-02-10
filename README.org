@@ -10,10 +10,8 @@
 ** devops 軟體開發與維運
 ** 如何開發網頁程式應用前端與後端
 
-* Outline
-
 * 報名資訊
-
+  
 * Credits:
 ** Design:
    Paradigm Shift by HTML5 UP
@@ -27,3 +25,4 @@
 ** Other:
 		jQuery (jquery.com)
 		Responsive Tools (github.com/ajlkn/responsive-tools)
+    

@@ -1,5 +1,5 @@
 
-* Course time table
+* Course challenge table
 It's a game just for fun.
 no schedule 
 
@@ -9,6 +9,7 @@ game team system of ctfd
 1 as unit 
 2 for basic 
 
+skills level 
 ** level 0 set 
    2w - 1m
 *** intro and motivation letter
@@ -16,7 +17,8 @@ game team system of ctfd
 *** env OS, browser, editer, cmd.
 
 *** package search egnine cs ? directory 
-
+    
+*** before you begin to write, you must learn to use it.
 ** level 1 basic 
    2-3 m
 *** git basic
@@ -80,3 +82,84 @@ game team system of ctfd
 ** level 4 
    only open when there is 4 team full of advance engineer
    head to wild world 
+
+* course level 
+** L0 still needed?
+** L1 shell connect git
+   setup git config your shell 
+   html and css ?
+
+   github page basic mdn front page 
+   eslint
+
+** L2 front end js linux?
+  a little more front end
+** L3 backend python
+  backend API and login basic and just db
+** L4 login and id 
+  next month challenge
+
+  or sperated bot
+  crawler maybe here , it's bot.
+  I think bot here.
+  do you think they are human? no bot!
+
+** L5 ajax, deploy? modern css 
+sass here or not?
+webpack a must
+maybe deploy at level 3 
+cors xss?
+** L6 frameworks 
+   more linux base?
+   or next semaster? 
+** L7 devops serious docker 
+   pro frame work devops 
+** L8 build your sevice site 
+** L9 high stream stress test:youtube yourself.
+** L10 hacker's war game 
+   get down,hide yourself, protect your castle.
+   find attacker trace.
+   cdn 
+** L11 build your news center : welcome to info war
+   or how reddit success
+** L12 final big projects
+
+* rules
+** 18:35 shadow student?
+youtube problem 
+
+真的單純因為有趣而寫程式的人卻反而好像越來越少了。 
+
+then create it.
+
+** team leader 制
+訂閱六個月課程的學員，有成為團隊隊長的資格。
+
+
+*** teamleader 
+
+
+職責
+確保學員學會，團隊完成月與季專案
+
+如果團隊任務失敗了，隊長要開道歉檢討會聲明。
+告訴大家你怎麼死的
+
+
+可以組織任意數量的隊伍
+
+權利
+
+團隊領袖金
+每有一個報名三個月以上的學生，加入你的團隊，團隊領袖可以得到 2000 元的團隊領袖金。
+
+一個報名ㄧ個月的學生，加入你的團隊，團隊領袖可以得到 500 元的團隊領袖金
+
+你可以在接下來的課程中自由應用這筆資金也可以自己收下。
+
+*** 組隊打怪制
+團隊每個月會被要求完成一個簡單專案，三個月一個大專案。
+project 
+
+除了team leader
+一個團隊最多5名成員
