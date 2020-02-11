@@ -84,7 +84,17 @@ skills level
    head to wild world 
 
 * course level 
-** L0 still needed?
+** L0 still needed? tool you use 
+set up take time
+but the base worth it I believe 
+
+since it's what this college missed 
+
+shell 
+editor 
+data wrangling
+
+browser internet 
 ** L1 shell connect git
    setup git config your shell 
    html and css ?
