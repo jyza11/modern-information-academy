@@ -85,6 +85,8 @@ skills level
 
 * course level 
 ** L0 still needed? tool you use 
+build the env you use for next life 
+
 set up take time
 but the base worth it I believe 
 
@@ -93,47 +95,78 @@ since it's what this college missed
 shell 
 editor 
 data wrangling
-
+install and package management
 browser internet 
-** L1 shell connect git
+** L1 have your own shell connect git
+
+   
    setup git config your shell 
-   html and css ?
+
+   maybe no frontend just internet is enough 
 
    github page basic mdn front page 
-   eslint
 
-** L2 front end js linux?
+   local github gitlab 
+   
+** L2 create your own front end js linux?
+   html and css ?
   a little more front end
-** L3 backend python
-  backend API and login basic and just db
+  
+   eslint
+   designer tool
+   code with web api 
+** L3 backend python nodejs data IO 
+   sync asyncr promise?
+   API connect 
+   restful build 
+   backend API and just db 
+   cms hexo? heroku?
 ** L4 login and id 
   next month challenge
-
+  and login basic 
+  sqlmap here 
+  
   or sperated bot
   crawler maybe here , it's bot.
   I think bot here.
   do you think they are human? no bot!
 
-** L5 ajax, deploy? modern css 
+  token security oath
+** L5 Accel ajax, deploy? modern css cache and browser? 
 sass here or not?
 webpack a must
 maybe deploy at level 3 
 cors xss?
-** L6 frameworks 
+** L6 frameworks?
+   after deep understand, you could have any choice 
+   not limited to any framworks 
+
    more linux base?
    or next semaster? 
-** L7 devops serious docker 
+** L7 devops serious docker deploy 
    pro frame work devops 
-** L8 build your sevice site 
-** L9 high stream stress test:youtube yourself.
-** L10 hacker's war game 
+** L8 build youtube high stream stress test:youtube yourself.
+** L9 online store build your service site ? LAMP nuxtjs?
+   currency 
+   block chain
+   
+   ticket please.
+   taiwan rail way project
+** L10 hacker's war game app community info? 
+   and then I could teach tor
    get down,hide yourself, protect your castle.
    find attacker trace.
    cdn 
-** L11 build your news center : welcome to info war
+** L11 you google build your news center : welcome to info war
+   build search engine 
+   SEO 
+   mining data
+   data analyze 
    or how reddit success
 ** L12 final big projects
-
+   maybe holiday ccc special
+   
+   or get careeer, startup serious 
 * rules
 ** 18:35 shadow student?
 youtube problem 
@@ -173,3 +206,5 @@ project
 
 除了team leader
 一個團隊最多5名成員
+
+* 聽說讀寫
