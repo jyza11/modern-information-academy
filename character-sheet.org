@@ -13,10 +13,11 @@
 實體
 虛擬
 
-OKR 
 or key value
 
-目標 value  
+目標 value   
+who
+what 
 
 關鍵條件 key
 

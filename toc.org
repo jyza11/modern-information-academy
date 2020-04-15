@@ -98,7 +98,6 @@ data wrangling
 install and package management
 browser internet 
 ** L1 have your own shell connect git
-
    
    setup git config your shell 
 
@@ -110,7 +109,8 @@ browser internet
    
 ** L2 create your own front end js linux?
    html and css ?
-  a little more front end
+   a little more front end
+   dom tree 
   
    eslint
    designer tool
@@ -119,6 +119,7 @@ browser internet
    sync asyncr promise?
    API connect 
    restful build 
+   with framework or not?
    backend API and just db 
    cms hexo? heroku?
 ** L4 login and id 
